@@ -11,6 +11,8 @@ I am pursuing B.Tech in Information Technology<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=x-neon-nexus-o&icon=0&color=12)](https://visitcount.itsvg.in)
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Js7cqIkpxFy0bILFFA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nasa-nasareactions-Js7cqIkpxFy0bILFFA">via GIPHY</a></p>
+<p align="center">
+  <img src="[https://media.giphy.com/media/your-gif-link-here.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV2MnN0NTh1M2Z4aWhzZnJuNjViMWswbW1yNHd3amhibmcybjl5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2y98KScHKeaQM/giphy.gif)" alt="Anime Animation">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
