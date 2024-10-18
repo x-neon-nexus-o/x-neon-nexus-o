@@ -2,6 +2,7 @@
 I am pursuing B.Tech in Information Technology<br>
 
 
+![Anime Animation](https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif?cid=ecf05e47a9xpxa7buzyu6xzhhihtg0o63ijuli8716xecyqx&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 # 📊 GitHub Stats:
@@ -11,5 +12,4 @@ I am pursuing B.Tech in Information Technology<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=x-neon-nexus-o&icon=0&color=12)](https://visitcount.itsvg.in)
-![Anime Animation](https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif?cid=ecf05e47a9xpxa7buzyu6xzhhihtg0o63ijuli8716xecyqx&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
