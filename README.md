@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am pursuing B.Tech in Information Technology<br>
-![Anime Animation](https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif?cid=790b761135pjbu0dhlviif7sghzmpx88i7k00cq2kz9fapzx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -11,5 +11,6 @@ I am pursuing B.Tech in Information Technology<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=x-neon-nexus-o&icon=0&color=12)](https://visitcount.itsvg.in)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Js7cqIkpxFy0bILFFA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nasa-nasareactions-Js7cqIkpxFy0bILFFA">via GIPHY</a></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
