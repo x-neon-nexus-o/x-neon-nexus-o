@@ -11,5 +11,5 @@ I am pursuing B.Tech in Information Technology<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=x-neon-nexus-o&icon=0&color=12)](https://visitcount.itsvg.in)
-![Anime Animation]([https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV2MnN0NTh1M2Z4aWhzZnJuNjViMWswbW1yNHd3amhibmcybjl5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2y98KScHKeaQM/giphy.gif))
+![Anime Animation](https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif?cid=ecf05e47a9xpxa7buzyu6xzhhihtg0o63ijuli8716xecyqx&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
