@@ -13,3 +13,5 @@ I am pursuing B.Tech in Information Technology<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=x-neon-nexus-o&icon=0&color=12)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwlaf7jrhzfdqy4jn6gck5vi3i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dwlaf7jrhzfdqy4jn6gck5vi3i&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)]]
