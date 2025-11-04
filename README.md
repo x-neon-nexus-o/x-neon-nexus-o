@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am pursuing B.Tech in Information Technology<br>
+I am pursuing Bachelors in Information Technology<br>
 
 
 ![Anime Animation](https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif?cid=ecf05e47a9xpxa7buzyu6xzhhihtg0o63ijuli8716xecyqx&ep=v1_gifs_related&rid=giphy.gif&ct=g)
