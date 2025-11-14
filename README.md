@@ -15,7 +15,7 @@
 ## 🌸 **About Me**
 
 🎓 IT Student  
-💻 MERN | Python | AI/ML | UI/UX  
+💻 MERN | Python | UI/UX  
 🚀 Focused on clean design & problem-solving  
 ✨ Love blending tech with creativity  
 
