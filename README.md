@@ -72,6 +72,6 @@
 ---
 
 <!-- ===================== VISIT COUNT ===================== -->
-![Visitor Count](https://profile-counter.glitch.me/x-neon-nexus-o/count.svg)
+![](https://komarev.com/ghpvc/?username=x-neon-nexus-o&label=PROFILE+VIEWS)
 
 
