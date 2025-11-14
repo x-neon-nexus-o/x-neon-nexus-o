@@ -72,7 +72,6 @@
 ---
 
 <!-- ===================== VISIT COUNT ===================== -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/x-neon-nexus-o/count.svg" />
-</p>
+![Visitor Count](https://profile-counter.glitch.me/x-neon-nexus-o/count.svg)
+
 
