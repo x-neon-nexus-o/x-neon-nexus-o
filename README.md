@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF6AC1&center=true&vCenter=true&width=650&lines=Namaskaram+🙏;Welcome+to+my+GitHub+Profile!;I+am+Prathamesh+Gawas+💻;Developer+|+Designer+|+Tech+Enthusiast" />
 </h1>
 
+![Anime Animation](https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif?cid=ecf05e47a9xpxa7buzyu6xzhhihtg0o63ijuli8716xecyqx&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/df/65/b6/df65b6afd894c2ac1699e6a8322d8b7a.gif" width="260" />
 </p>
@@ -16,10 +18,6 @@
 💻 MERN | Python | AI/ML | UI/UX  
 🚀 Focused on clean design & problem-solving  
 ✨ Love blending tech with creativity  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/PUR0sBzkaZCzC/giphy.gif" width="230" />
-</p>
 
 ---
 
