@@ -72,6 +72,7 @@
 ---
 
 <!-- ===================== VISIT COUNT ===================== -->
-![](https://komarev.com/ghpvc/?username=x-neon-nexus-o&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=x-neon-nexus-o&label=PROFILE+VIEWS&color=blueviolet)
+
 
 
