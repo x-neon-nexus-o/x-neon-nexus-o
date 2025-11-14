@@ -73,5 +73,6 @@
 
 <!-- ===================== VISIT COUNT ===================== -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?user=x-neon-nexus-o&color=12&icon=5" />
+  <img src="https://profile-counter.glitch.me/x-neon-nexus-o/count.svg" />
 </p>
+
