@@ -7,8 +7,10 @@
   <img src="https://gifdb.com/images/high/anime-boy-waving-hello-lr6k5i8u1surzh94.gif" width="300"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif" width="300">
+</p>
 ---
-
 <!-- ===================== ABOUT ME ===================== -->
 ## 🌈 **About Me**
 🎓 Bachelor of Information Technology student  
@@ -19,9 +21,7 @@
 <p align="center">
   <img src="https://media.tenor.com/XwP_bQ8-OMgAAAAC/when-the-coding-when-the-coding.gif" width="300" />
 </p>
-
 ---
-
 <!-- ===================== TECH STACK ===================== -->
 ## 💻 **Tech Stack**
 
@@ -42,9 +42,7 @@
 
 ### 🧩 **Frameworks**
 ![Django](https://img.shields.io/badge/Django-0B4B33?style=for-the-badge&logo=django&logoColor=white)
-
 ---
-
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 **GitHub Stats**
 
@@ -56,15 +54,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-neon-nexus-o&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
----
-
-<!-- ===================== ANIMATIONS ===================== -->
-## ✨ **Fun Animations**
-<p align="center">
-  <img src="https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif" width="300">
-</p>
-
 ---
 
 <!-- ===================== CONNECT ===================== -->
