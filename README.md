@@ -64,9 +64,18 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/x-neon-nexus-o"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://x-neon-nexus-o.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6AC1?style=for-the-badge&logo=web&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/prathameshgawas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <p align="center">
+  <a href="https://github.com/x-neon-nexus-o" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x-neon-nexus-o.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF6AC1?style=for-the-badge&logo=web&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prathameshgawas/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 </p>
 
 ---
