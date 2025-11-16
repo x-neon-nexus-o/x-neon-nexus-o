@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF6AC1&center=true&vCenter=true&width=650&lines=नमस्कार+मंडळी+🙏;Welcome+to+my+GitHub+Profile!;I+am+Prathamesh+Gawas+💻;Developer+|+Designer+|+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=001F3F&center=true&vCenter=true&width=650&lines=नमस्कार+मंडळी+🙏;Welcome+to+my+GitHub+Profile!;I+am+Prathamesh+Gawas+💻;Developer+|+Designer+|+Tech+Enthusiast" />
 </h1>
 
 <p align="center">
