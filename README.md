@@ -1,81 +1,83 @@
-# नमस्कार 🙏 Welcome to My GitHub Profile!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF6500&center=true&vCenter=true&width=650&lines=नमस्कार+मंडळी+🙏;Welcome+to+my+GitHub+Profile!;I+am+Prathamesh+Gawas+💻;Developer+|+Designer+|+Tech+Enthusiast" />
+</h1>
 
-<div align="center">
-  
-### Prathamesh Gawas
-**Developer | Designer | Tech Enthusiast**
+<p align="center">
+  <img src="https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif" width="300" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6AC1?style=for-the-badge&logo=firefox&logoColor=white)](https://x-neon-nexus-o.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathameshgawas/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x-neon-nexus-o)
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a passionate IT student with a love for building clean, intuitive digital experiences. I believe in the power of combining technology with thoughtful design to solve real-world problems. When I'm not coding, you'll find me exploring new design trends or experimenting with creative solutions.
-
-- 🎓 IT Student with a passion for full-stack development
-- 💻 Expertise in **MERN Stack**, **Python**, and **UI/UX Design**
-- 🚀 Driven by clean code and problem-solving
-- ✨ Blending technology with creativity in every project
+<p align="center">
+  <img src="https://i.pinimg.com/originals/df/65/b6/df65b6afd894c2ac1699e6a8322d8b7a.gif" width="260" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌸 About Me
 
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- 🎓 IT Student  
+- 💻 MERN | Python | UI/UX  
+- 🚀 Focused on clean design & problem-solving  
+- ✨ Love blending tech with creativity  
 
 ---
 
-## 📊 GitHub Statistics
+## 💻 Tech Stack
 
-<div align="center">
+### 🔹 Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x-neon-nexus-o&theme=calm_pink&show_icons=true&hide_border=true&count_private=true)
+### 🔹 Frontend  
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x-neon-nexus-o&theme=calm_pink&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x-neon-nexus-o&layout=compact&theme=calm_pink&hide_border=true)
-
-</div>
+### 🔹 Backend  
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=x-neon-nexus-o&theme=calm_pink&show_icons=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-neon-nexus-o&theme=calm_pink" height="160" />
+</p>
 
-I'm always open to collaborating on interesting projects and discussing new ideas. Feel free to reach out!
-
-**[📧 Email](mailto:your-email@example.com)** • **[💼 LinkedIn](https://www.linkedin.com/in/prathameshgawas/)** • **[🌐 Portfolio](https://x-neon-nexus-o.github.io/)** • **[💻 GitHub](https://github.com/x-neon-nexus-o)**
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-neon-nexus-o&layout=compact&theme=calm_pink" height="150" />
+</p>
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=x-neon-nexus-o&label=Profile%20Views&color=0e75b6&style=flat)
+## 📬 Connect With Me
 
-**Made with ❤️ by Prathamesh Gawas**
+<p align="center">
+  <a href="https://github.com/x-neon-nexus-o" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x-neon-nexus-o.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF6AC1?style=for-the-badge&logo=web&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prathameshgawas/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=x-neon-nexus-o&label=Profile%20Views&color=0e75b6&style=flat" alt="x-neon-nexus-o" />
+</p>
