@@ -128,35 +128,25 @@
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Stats - Using multiple deployments for reliability -->
 <p align="center">
-  <a href="https://github.com/x-neon-nexus-o">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=x-neon-nexus-o&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/x-neon-nexus-o">
-    <img height="180" src="https://streak-stats.demolab.com?user=x-neon-nexus-o&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=x-neon-nexus-o&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=x-neon-nexus-o&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <a href="https://github.com/x-neon-nexus-o">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=x-neon-nexus-o&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-  </a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-neon-nexus-o&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
-<!-- GitHub Activity Graph - Using reliable deployment -->
 <p align="center">
-  <a href="https://github.com/x-neon-nexus-o">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=x-neon-nexus-o&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x-neon-nexus-o&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
 
-<!-- GitHub Trophies - Using alternative deployment -->
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://github.com/x-neon-nexus-o">
-    <img src="https://github-profile-trophy.vercel.app/?username=x-neon-nexus-o&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=x-neon-nexus-o&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="Trophies" />
 </p>
 
 ---
