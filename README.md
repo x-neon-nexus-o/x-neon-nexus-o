@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Prathamesh%20Gawas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Engineer&descSize=18&descAlignY=55)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Prathamesh%20Gawas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc==Aspiring%20Data%20Scientist%20%7C%20Full-Stack%20Developer%20%7C&descSize=18&descAlignY=55)
 
 </div>
 
